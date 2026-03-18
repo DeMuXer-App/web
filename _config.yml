@@ -1,5 +1,3 @@
-site.title: title
-site.description: description
-title: title_
-description: description_
+title: DeMuXer
+description: description
 theme: jekyll-theme-minimal
